@@ -1,1 +1,2 @@
-New introductory paragraph for Chapter 2\nChapter 2 content
+Just adding a new paragraph here.
+Chapter 2 content
